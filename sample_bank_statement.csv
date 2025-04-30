@@ -1,0 +1,39 @@
+Date,Details,Amount,Currency,Debit/Credit,Status
+05 Oct 2024,Dmart,"2,150.45",INR,Debit,SETTLED
+25 Oct 2024,Business Order,"28,500.25",INR,Debit,SETTLED
+26 Oct 2024,Business Money,"35,300.75",INR,Credit,SETTLED
+14 Nov 2024,Jio Mart,"3,800.75",INR,Debit,SETTLED
+22 Nov 2024,Business Order,"25,800.50",INR,Debit,SETTLED
+23 Nov 2024,Business Money,"30,700.80",INR,Credit,SETTLED
+04 Dec 2024,Vishal Mart,"420.25",INR,Debit,SETTLED
+08 Dec 2024,Flipkart,"2,450.00",INR,Debit,SETTLED
+10 Dec 2024,Business Order,"22,300.10",INR,Debit,SETTLED
+10 Dec 2024,Business Money,"26,400.60",INR,Credit,SETTLED
+14 Dec 2024,Others,"3,000.25",INR,Debit,SETTLED
+15 Dec 2024,Groceries,"980.20",INR,Debit,SETTLED
+16 Dec 2024,House Rent,"4,000.10",INR,Debit,SETTLED
+04 Jan 2025,UPI Payment Received,"30,120.00",INR,Credit,SETTLED
+12 Jan 2025,Netflix,"450.30",INR,Debit,SETTLED
+16 Jan 2025,Internet Bill,"2,800.50",INR,Debit,SETTLED
+16 Jan 2025,House Rent,"3,450.00",INR,Debit,SETTLED
+28 Jan 2025,Rapido,"305.75",INR,Debit,SETTLED
+31 Jan 2025,Business Order,"17,200.40",INR,Debit,SETTLED
+01 Feb 2025,Business Money,"18,000.85",INR,Credit,SETTLED
+16 Feb 2025,House Rent,"4000.00",INR,Debit,SETTLED
+17 Feb 2025,Vishal Mart,"1,300.90",INR,Debit,SETTLED
+18 Feb 2025,Business Order,"18,700.55",INR,Debit,SETTLED
+19 Feb 2025,Business Money,"20,600.90",INR,Credit,SETTLED
+25 Feb 2025,Amazon,"650.45",INR,Debit,SETTLED
+28 Feb 2025,Card Payment Received,"19,980.90",INR,Credit,SETTLED
+04 Mar 2025,Flipkart,"3,200.20",INR,Debit,SETTLED
+16 Mar 2025,House Rent,"4,000.25",INR,Debit,SETTLED
+20 Mar 2025,Groceries,"850.35",INR,Debit,SETTLED
+23 Mar 2025,Amazon,"1,950.10",INR,Debit,SETTLED
+25 Mar 2025,Dmart,"2,850.40",INR,Debit,SETTLED
+28 Mar 2025,Others,"3,000.30",INR,Debit,SETTLED
+16 Apr 2025,House Rent,"4,000.00",INR,Debit,SETTLED
+18 Apr 2025,Zomato,"650.40",INR,Debit,SETTLED
+20 Apr 2025,Jio Mart,"2,100.75",INR,Debit,SETTLED
+24 Apr 2025,Internet Bill,"2,800.30",INR,Debit,SETTLED
+26 Apr 2025,Myntra,"300.55",INR,Debit,SETTLED
+
