@@ -1,5 +1,5 @@
 
-# 💰 My Finance Auto Board
+# 💰 My Finance Auto Board 
 
 A simple yet powerful personal finance tracking dashboard built with **Streamlit**. This app allows you to upload your bank transaction CSV files, categorize your expenses and income, and gain insights into your financial habits — all in an interactive and visual format.
 
@@ -32,7 +32,7 @@ A simple yet powerful personal finance tracking dashboard built with **Streamlit
    - "Payments (Credits)" tab shows your incoming money
    - You can create new categories dynamically
 
----
+----
 
 ## 🛠️ Tech Stack
 
@@ -42,7 +42,7 @@ A simple yet powerful personal finance tracking dashboard built with **Streamlit
 - **Plotly (Coming Soon)** – Visualizations
 - **JSON** – Category storage
 
----
+----
 
 
 
